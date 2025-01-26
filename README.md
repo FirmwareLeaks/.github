@@ -1,5 +1,7 @@
 #  Introduction
 
+### Welcome to FirmwareLeaks!
+
 FirmwareLeaks is intended to publish stolen and private firmware, in particular those that are based on open source firmwares like QMK.
 
 Many companies that produce keyboards don't develop their own firmware from scratch inorder to safe costs. 
